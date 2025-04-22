@@ -1,3 +1,5 @@
+import { Linkedin } from 'lucide-react'
+
 export default function Footer() {
     return (
       <footer className="w-full bg-[#fdfaf4] text-[#0c1c3c] border-t border-[#e2e2e2]">
@@ -17,23 +19,22 @@ export default function Footer() {
   
           <div className="flex gap-4">
             <a
-              href="mailto:contact@example.com"
+              href="mailto:mateo.legigan@sts-sio-caen.info"
               className="hover:text-[#2d5fff] transition"
               title="Me contacter"
             >
               ✉️
             </a>
             <a
-              href="https://github.com/Skrylleur"
+              href="https://www.linkedin.com/in/mateo-legigan/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#2d5fff] transition"
-              title="GitHub"
+              title="LinkedIn"
             >
-              🌐
-            </a>
-          </div>
-  
+              <Linkedin className="w-5 h-5" />
+            </a>          
+            </div>
         </div>
       </footer>
     )
