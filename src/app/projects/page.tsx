@@ -8,7 +8,7 @@ export default function ProjectsPage() {
           Projets
         </h1>
         <p className="text-2xl font-light text-gray-800">
-          Quelques projets significatifs réalisés au cours de ma formation et de mon alternance.
+          Quelques projets significatifs réalisés au cours de ma formation, de mon temps personnel et de mon alternance.
         </p>
       </div>
 
