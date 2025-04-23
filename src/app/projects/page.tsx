@@ -22,7 +22,7 @@ export default function ProjectsPage() {
           </p>
           <h3 className="font-semibold text-base mb-1">Compétences réalisées :</h3>
           <ul className="list-disc list-inside text-gray-700 leading-relaxed">
-            <li>À compléter…</li>
+            <li>Travailler en mode projet</li>
           </ul>
         </div>
 
@@ -34,7 +34,7 @@ export default function ProjectsPage() {
           </p>
           <h3 className="font-semibold text-base mb-1">Compétences réalisées :</h3>
           <ul className="list-disc list-inside text-gray-700 leading-relaxed">
-            <li>À compléter…</li>
+            <li>Travailler en mode projet</li>
           </ul>
         </div>
 
@@ -46,7 +46,7 @@ export default function ProjectsPage() {
           </p>
           <h3 className="font-semibold text-base mb-1">Compétences réalisées :</h3>
           <ul className="list-disc list-inside text-gray-700 leading-relaxed">
-            <li>À compléter…</li>
+            <li>Mettre à disposition des utilisateurs un service informatique</li>
           </ul>
         </div>
 
@@ -58,7 +58,8 @@ export default function ProjectsPage() {
           </p>
           <h3 className="font-semibold text-base mb-1">Compétences réalisées :</h3>
           <ul className="list-disc list-inside text-gray-700 leading-relaxed">
-            <li>À compléter…</li>
+            <li>Gérer le patrimoine informatique</li>
+            <li>Répondre aux incidents et demandes d’assistance et d’évolution</li>
           </ul>
         </div>
 
@@ -70,7 +71,8 @@ export default function ProjectsPage() {
           </p>
           <h3 className="font-semibold text-base mb-1">Compétences réalisées :</h3>
           <ul className="list-disc list-inside text-gray-700 leading-relaxed">
-            <li>À compléter…</li>
+            <li>Travail en mode projet</li>
+            <li>Mise à disposition des utilisateurs un service informatique</li>
           </ul>
         </div>
 
