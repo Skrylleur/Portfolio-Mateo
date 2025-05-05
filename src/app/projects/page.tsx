@@ -17,6 +17,11 @@ export default function ProjectsPage() {
         {/* Projet 1 */}
         <div className="bg-white border border-[#0c1c3c] rounded-xl p-6 shadow-sm">
           <h2 className="text-xl font-bold mb-2">Conception d’une API REST avec Spring Boot</h2>
+          <img
+            src="/images/R1.png"
+            alt="Illustration du projet – gestion du patrimoine informatique"
+            className="mb-4 w-full h-auto rounded-md shadow-sm"
+          />
           <p className="text-gray-700 mb-4">
             Développement d’une API Java robuste avec le framework Spring Boot. Gestion des entités, routes sécurisées, validations, tests, et documentation technique.
           </p>
@@ -24,6 +29,14 @@ export default function ProjectsPage() {
           <ul className="list-disc list-inside text-gray-700 leading-relaxed">
             <li>Travailler en mode projet</li>
           </ul>
+          <a
+            href="https://github.com/otemALS/API-REST"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-sm font-medium text-[#0c1c3c] underline hover:text-[#2d5fff] transition"
+          >
+            Voir le projet sur GitHub
+          </a>          
         </div>
 
         {/* Projet 2 */}
@@ -36,11 +49,34 @@ export default function ProjectsPage() {
           <ul className="list-disc list-inside text-gray-700 leading-relaxed">
             <li>Travailler en mode projet</li>
           </ul>
+          <img
+            src="/images/R2.png"
+            alt="Illustration du projet – gestion du patrimoine informatique"
+            className="mb-4 w-full h-auto rounded-md shadow-sm"
+          />
+          <a
+            href="https://github.com/otemALS/ImmoAndroid"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-sm font-medium text-[#0c1c3c] underline hover:text-[#2d5fff] transition"
+          >
+            Voir le projet sur GitHub
+          </a>          
         </div>
 
         {/* Projet 3 */}
         <div className="bg-white border border-[#0c1c3c] rounded-xl p-6 shadow-sm">
           <h2 className="text-xl font-bold mb-2">Plateforme RH : entretiens salariés / managers</h2>
+          <img
+            src="/images/R3-1.png"
+            alt="Illustration du projet – gestion du patrimoine informatique"
+            className="mb-4 w-full h-auto rounded-md shadow-sm"
+          />
+          <img
+            src="/images/R3-2.png"
+            alt="Illustration du projet – gestion du patrimoine informatique"
+            className="mb-4 w-full h-auto rounded-md shadow-sm"
+          />
           <p className="text-gray-700 mb-4">
             Conception et développement complet d’une plateforme interne permettant la gestion d’entretiens professionnels, avec espace de connexion, suivi RH, export PDF, et design adapté aux utilisateurs métiers.
           </p>
@@ -66,6 +102,11 @@ export default function ProjectsPage() {
         {/* Projet 5 */}
         <div className="bg-white border border-[#0c1c3c] rounded-xl p-6 shadow-sm">
           <h2 className="text-xl font-bold mb-2">Gestion de projet avec suivi client</h2>
+          <img
+            src="/images/R3-3.png"
+            alt="Illustration du projet – gestion du patrimoine informatique"
+            className="mb-4 w-full h-auto rounded-md shadow-sm"
+          />
           <p className="text-gray-700 mb-4">
             Organisation de réunions avec le chef de projet et la RH. Présentation des livrables, ajustements, démonstrations, mise en production. Méthodologie Agile en autonomie.
           </p>
@@ -74,6 +115,31 @@ export default function ProjectsPage() {
             <li>Travail en mode projet</li>
             <li>Mise à disposition des utilisateurs un service informatique</li>
           </ul>
+        </div>
+
+        {/* Projet 6 */}
+        <div className="bg-white border border-[#0c1c3c] rounded-xl p-6 shadow-sm">
+          <h2 className="text-xl font-bold mb-2">Conception d’une application web en Next.js</h2>
+          <p className="text-gray-700 mb-4">
+            Développement d’une interface web en Next.js liée à une API Spring Boot.
+          </p>
+          <img
+            src="/images/R6.png"
+            alt="Illustration du projet – gestion du patrimoine informatique"
+            className="mb-4 w-full h-auto rounded-md shadow-sm"
+          />
+          <h3 className="font-semibold text-base mb-1">Compétences réalisées :</h3>
+          <ul className="list-disc list-inside text-gray-700 leading-relaxed">
+            <li>Travailler en mode projet</li>
+          </ul>
+          <a
+            href="https://github.com/otemALS/FrontAzurrimoNext"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-sm font-medium text-[#0c1c3c] underline hover:text-[#2d5fff] transition"
+          >
+            Voir le projet sur GitHub
+          </a>          
         </div>
 
       </div>

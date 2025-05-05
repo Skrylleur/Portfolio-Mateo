@@ -40,7 +40,7 @@ export default function Footer() {
             ✉️
           </a>
           <a
-            href="https://www.linkedin.com/in/mateo-legigan/"
+            href="https://www.linkedin.com/in/matéo-legigan-steier-5b9817262/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#2d5fff] transition"

@@ -11,6 +11,15 @@ export default function AboutPage() {
           Passionné par le sport et les voyages, je suis un jeune développeur qui apprend la programmation d&apos;applications web et mobile.
         </p>
         <h2 className="text-4xl font-bold mb-4">Mes documents</h2>
+        <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
+          <a
+            href="documents/CV.pdf"
+            download
+            className="inline-block px-6 py-3 border border-[#0c1c3c] text-[#0c1c3c] rounded-md font-medium hover:bg-[#f0c98e] transition"
+          >
+            Télécharger mon CV
+          </a>
+        </div>
       </div>
     </main>
   )
