@@ -19,6 +19,27 @@ export default function AboutPage() {
           >
             Télécharger mon CV
           </a>
+          <a
+            href="documents/Synthèse.pdf"
+            download
+            className="inline-block px-6 py-3 border border-[#0c1c3c] text-[#0c1c3c] rounded-md font-medium hover:bg-[#f0c98e] transition"
+          >
+            Télécharger mon tableau de synthèse
+          </a>
+          <a
+            href="documents/veille_technologique_dotnet_2025_complete.pdf"
+            download
+            className="inline-block px-6 py-3 border border-[#0c1c3c] text-[#0c1c3c] rounded-md font-medium hover:bg-[#f0c98e] transition"
+          >
+            Télécharger ma veille technologique
+          </a>
+          <a
+            href="documents/veille_juridique_azure_ad_2025.pdf"
+            download
+            className="inline-block px-6 py-3 border border-[#0c1c3c] text-[#0c1c3c] rounded-md font-medium hover:bg-[#f0c98e] transition"
+          >
+            Télécharger ma veille juridique
+          </a>
         </div>
       </div>
     </main>
